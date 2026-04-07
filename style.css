@@ -90,3 +90,8 @@ body{
     font-size: 16px;
     cursor: pointer;
 }
+
+.button-container a{
+    color: white;
+    text-decoration: none;
+}
